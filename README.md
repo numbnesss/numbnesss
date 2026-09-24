@@ -1,8 +1,8 @@
-<img src="img/cur.gif" width="100%">
+<img src="img/cur.gif" width="50%">
 
 <h1 align="center"> music is the only one who has never cheated on me </h1>
 
-<p>
+<pre style='white-space:pre;'>
 鑓塵幗膂蓿f寥寢膃暠瘉甅甃槊槎f碣綮瘋聟碯颱亦尓㍍i:i:i;;:;:: : :
 澣幗嶌塹傴嫩榛畝皋i袍耘蚌紕欒儼巓襴踟篁f罵f亦尓㍍i:i:i;;:;:: : :
 漲蔭甃縟諛f麭窶膩I嶮薤篝爰曷樔黎㌢´　　｀ⅷ踟亦尓㍍i:i:i;;:;:: : :
@@ -25,7 +25,7 @@
 椈f棘豢跫跪I衙絎絲絨i爺i㎜iⅣ 　 ,緲i亀 Ⅶ靈,　　甯傅喩I揵揚惹屡絎痙棏敞裔筴敢;;
 頬i鞏褂f跫詹雋髢i曷迯瓲軌霤 　 ,緲蔭穐 Ⅶ穐 　 讎椈i棘貅f斐犀耋f絎絲觚f覃黹黍:::.
 襴蔽戮貲艀舅I肅肄肆槿f蝓Ⅷ 　 緲$慚I穐,疊穐　 甯萪碾f鋗輜靠f誹臧鋩f褂跫詹i雋;::..
-</p>
+</pre>
 
 ###
 
@@ -61,4 +61,4 @@
 
 ###
 
-<img src="img/cat.gif" width="100%">
+<img src="img/cat.gif" width="50%">
