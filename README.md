@@ -26,6 +26,9 @@
 頬i鞏褂f跫詹雋髢i曷迯瓲軌霤 　 ,緲蔭穐 Ⅶ穐 　 讎椈i棘貅f斐犀耋f絎絲觚f覃黹黍:::.
 襴蔽戮貲艀舅I肅肄肆槿f蝓Ⅷ 　 緲$慚I穐,疊穐　 甯萪碾f鋗輜靠f誹臧鋩f褂跫詹i雋;::..
 </pre>
+###
+
+<img src="img/cat.gif" width="100%" height='150px'>
 
 ###
 
@@ -60,6 +63,4 @@
 </div>
 
 ###
-
-<img src="img/cat.gif" width="100%" height='150px'>
 
