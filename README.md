@@ -1,5 +1,5 @@
 <div style="height: 50px; overflow: hidden;">
-  <img src="img/cur.gif" width="100%" height: 50px>
+  <img src="img/cur.gif" width="100%" height='100px'>
 </div>
 
 <h1 align="center"> music is the only one who has never cheated on me </h1>
