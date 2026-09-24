@@ -1,6 +1,4 @@
-<div style="height: 50px; overflow: hidden;">
-  <img src="img/cur.gif" width="100%" height='100px'>
-</div>
+<img src="img/cur.gif" width="100%" height='150px'>
 
 <h1 align="center"> music is the only one who has never cheated on me </h1>
 
@@ -63,7 +61,5 @@
 
 ###
 
-<div style="height: 100px; overflow: hidden;">
-  <img src="img/cat.gif" width="100%">
-</div>
+<img src="img/cat.gif" width="100%" height='150px'>
 
