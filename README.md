@@ -1,8 +1,10 @@
-<img src="img/cur.gif" width="50%">
+<div style="height: 150px; overflow: hidden;">
+  <img src="img/cur.gif" width="100%">
+</div>
 
 <h1 align="center"> music is the only one who has never cheated on me </h1>
 
-<pre style='white-space:pre;'>
+<pre style="white-space: pre; font-family: monospace;">
 鑓塵幗膂蓿f寥寢膃暠瘉甅甃槊槎f碣綮瘋聟碯颱亦尓㍍i:i:i;;:;:: : :
 澣幗嶌塹傴嫩榛畝皋i袍耘蚌紕欒儼巓襴踟篁f罵f亦尓㍍i:i:i;;:;:: : :
 漲蔭甃縟諛f麭窶膩I嶮薤篝爰曷樔黎㌢´　　｀ⅷ踟亦尓㍍i:i:i;;:;:: : :
@@ -61,4 +63,7 @@
 
 ###
 
-<img src="img/cat.gif" width="50%">
+<div style="height: 150px; overflow: hidden;">
+  <img src="img/cat.gif" width="100%">
+</div>
+
