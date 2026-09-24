@@ -1,4 +1,4 @@
-<div style="height: 150px; overflow: hidden;">
+<div style="height: 100px; overflow: hidden;">
   <img src="img/cur.gif" width="100%">
 </div>
 
@@ -63,7 +63,7 @@
 
 ###
 
-<div style="height: 150px; overflow: hidden;">
+<div style="height: 100px; overflow: hidden;">
   <img src="img/cat.gif" width="100%">
 </div>
 
